@@ -1,4 +1,7 @@
 # 广东机电职院课1
+
+[![Fork Me On Gitee!](https://gitee.com/WENZI2020/GarbageSorter/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GarbageSorter)<br/>
+[中译版](README.en.md) ![](https://img.shields.io/badge/曾昭文-资料整理-blue.svg)<br/>
 Android os资料整理
 
 #### 介绍
