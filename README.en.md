@@ -1,7 +1,7 @@
 # 广东机电职院课1
 
 [![Fork Me On Gitee!](https://gitee.com/WENZI2020/GdmecCourse1/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GdmecCourse1)<br/>
-Android os全整理[英译版](README.md) ![](https://img.shields.io/badge/曾昭文-培训资料-blue.svg)<br/>
+Android app全整理[英译版](README.md) ![](https://img.shields.io/badge/曾昭文-培训资料-blue.svg)<br/>
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
