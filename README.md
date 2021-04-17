@@ -1,7 +1,7 @@
 # 广东机电职院课1
 
 [![Fork Me On Gitee!](https://gitee.com/WENZI2020/GdmecCourse1/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GdmecCourse1)<br/>
-Android app全整理[中译版](README.en.md) ![](https://img.shields.io/badge/曾昭文-培训资料-blue.svg)<br/>
+Android app全整理 ![](https://img.shields.io/badge/曾昭文-培训资料-blue.svg)<br/>
 
 #### 介绍
 {**以下是 Gitee 平台说明，您可以替换此简介**
